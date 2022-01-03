@@ -18,6 +18,13 @@
 
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="saikot-cse's GitHub Stats" src="https://github-readme-stats.saikot-cse.vercel.app/api?username=saikot-cse&show_icons=true&hide_border=true" />
+
+</details>
+<br />
 ---
 
 [course]: https://web.programming-hero.com/
