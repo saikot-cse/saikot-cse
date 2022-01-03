@@ -17,13 +17,6 @@
 [<img align="left" alt="saikot-cse | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="saikot-cse's GitHub Stats" src="https://github-readme-stats.saikot-cse.vercel.app/api?username=saikot-cse&show_icons=true&hide_border=true" />
-
-</details>
 <br />
 ---
 
