@@ -4,7 +4,6 @@
 
 ## I'm a Developer, and Quick Learner!!
 
-- 🔭 I just started my first course: [Complete Web Development Course With Jhankar Mahbub][course]!
 - 🌱 I’m currently learning Front End Development
 - 🥅 2022 Goals: Become a successfull Jr. Web Developer and get my first job in corporate world.
 - ⚡ Fun fact: I love to Travel and Cooking.
